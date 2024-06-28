@@ -1,0 +1,1094 @@
+[
+    {
+      "id":1,
+      "nombre": "El Gaucho",
+      "calificacion": "4",
+      "tipoComida": "Parrilla",
+      "urllogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sS2Wx2epNzEpQYtyR4KeOxvMDP-4WWrC0Q&s",
+      "ubicacion": "Calle 123",
+      "horario": "11am/11pm",
+      "valoracion": "4.5",
+      "costo": "2",
+      "delivery": "true",
+      "estrellas": 3,
+      "caracter":"Esta lleno de Gauchos tengan cuidado",
+      "menu": [
+        {
+          "id":1,
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "id":2,
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "id":3,
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "id":4,
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "id":5,
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "id":6,
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "costo": "2",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "id":7,
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "id":8,
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "id":9,
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ],
+      
+      "resenas":[
+        {
+          
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nombre": "La Boca",
+      "calificacion": "3",
+      "tipoComida": "Italiana",
+      "urllogo": "https://guiaojoalpiojo.com/wp-content/uploads/2019/09/Captura-de-Pantalla-2021-06-30-a-las-16.47.48-600x570.png",
+      "ubicacion": "Avenida 456",
+      "horario": "12pm/10pm",
+      "valoracion": "3.2",
+      "costo": "2",
+      "estrellas": 2,
+      "caracter":"Esta lleno de marrones y planeros",
+      "delivery": true,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "costo": "2",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ],
+      "resenas":[
+        {
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+      
+    },
+    {
+      "id":3,
+      "nombre": "Tango Empanadas",
+      "calificacion": "4",
+      "tipoComida": "Empanadas",
+      "urllogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WsTXekx1Yr6EhWW66ZaCfJnaIijBS8GkiA&s",
+      "ubicacion": "Calle 789",
+      "horario": "10am - 9pm",
+      "valoracion": "4.7",
+      "costo": "1",
+      "estrellas": 5,
+      "caracter":"venden todo menos empanadas",
+      "delivery": true,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "costo": "2",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ],
+      "resenas": [
+        {
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "nombre": "El Patio",
+      "calificacion": "5",
+      "tipoComida": "Asado",
+      "urllogo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cbff3464318651.5ae53b4685be3.jpg",
+      "ubicacion": "Avenida 012",
+      "horario": "11am - 11pm",
+      "valoracion": "4.9",
+      "costo": "3",
+      "estrellas": 1,
+      "delivery": true,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "costo": "2",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "costo": "2",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ],
+      "resenas": [
+        {
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "nombre": "Café Tortoni",
+      "calificacion": "4",
+      "tipoComida": "Cafetería",
+      "urllogo": "https://www.gft.com.ar/en/wp-content/uploads/2018/01/CAFE-TORTONI-01.png",
+      "ubicacion": "Calle 345",
+      "horario": "8am - 12am",
+      "valoracion": "4.3",
+      "costo": "2",
+      "estrellas": 1,
+      "delivery": true,
+      "resenas": [
+        {
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "nombre": "Sushi Club",
+      "calificacion": "3",
+      "tipoComida": "Sushi",
+      "urllogo": "https://guiaojoalpiojo.com/wp-content/uploads/2019/09/Captura-de-Pantalla-2021-06-30-a-las-16.47.48-600x570.png",
+      "ubicacion": "Avenida 678",
+      "horario": "12pm - 11pm",
+      "valoracion": "3.8",
+      "costo": "2",
+      "estrellas": 5,
+      "delivery": true,
+      "resenas": [
+        {
+          "name": "Maria",
+          "plato": "Asado",
+          "calif": "4",
+          "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+          "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+        },
+        {
+          "name": "Juan",
+          "plato": "Empanadas",
+          "calif": "5",
+          "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+          "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+        },
+        {
+          "name": "Luisa",
+          "plato": "Milanesa",
+          "calif": "3",
+          "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+          "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+        },
+        {
+          "name": "Pedro",
+          "plato": "Matambre",
+          "calif": "4",
+          "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+          "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+        },
+        {
+          "name": "Ana",
+          "plato": "Locro",
+          "calif": "5",
+          "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+          "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+        },
+        {
+          "name": "Carlos",
+          "plato": "Ñoquis",
+          "calif": "4",
+          "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+          "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+        },
+        {
+          "name": "Laura",
+          "plato": "Humita",
+          "calif": "3",
+          "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+          "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+        },
+        {
+          "name": "Diego",
+          "plato": "Provoleta",
+          "calif": "5",
+          "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+          "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+        },
+        {
+          "name": "Gabriela",
+          "plato": "Tarta",
+          "calif": "4",
+          "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+          "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+        },
+        {
+          "name": "Fernando",
+          "plato": "Dulce de Leche",
+          "calif": "5",
+          "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+          "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "nombre": "La Cabrera",
+      "calificacion": "5",
+      "tipoComida": "Parrilla",
+      "urllogo": "https://www.lacabrera.com.ar/img/la-cabrera-un-aplauso-para-el-asador.png",
+      "ubicacion": "Calle 901",
+      "horario": "12pm - 12am",
+      "valoracion": "4.9",
+      "costo": "3",
+      "estrellas": 3,
+      "delivery": true,
+      "resenas": "200"
+    },
+    {
+      "id":8,
+      "nombre": "El Preferido de Palermo",
+      "calificacion": "4",
+      "tipoComida": "Milanesa",
+      "urllogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/El_Preferido-closeup-TM.jpg/270px-El_Preferido-closeup-TM.jpg",
+      "ubicacion": "Avenida 234",
+      "horario": "11am - 11pm",
+      "valoracion": "4.5",
+      "costo": "2",
+      "estrellas": 2,
+      "delivery": true,
+      "resenas": "150"
+    },
+    {
+      "id":9,
+      "nombre": "Las Cholas",
+      "calificacion": "3",
+      "tipoComida": "Parrilla",
+      "urllogo": "https://scontent.faep17-1.fna.fbcdn.net/v/t39.30808-1/301563688_532626732003833_9174970730438734819_n.png?stp=dst-png_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5gw-uYe2GmIQ7kNvgFjZQW_&_nc_ht=scontent.faep17-1.fna&oh=00_AYD1FfTmZqE-rbrrElxpWZErhApYBvSNCL2927Su5hW07w&oe=666EA881",
+      "ubicacion": "Calle 567",
+      "horario": "12pm - 10pm",
+      "valoracion": "3.2",
+      "costo": "2",
+      "estrellas": 3,
+      "delivery": true,
+      "resenas": "80"
+    },
+    {
+      "id":10,
+      "nombre": "El Palacio de la Papa Frita",
+      "calificacion": "4",
+      "tipoComida": "Papas Fritas",
+      "urllogo": "https://pbs.twimg.com/profile_images/604387446613221376/ArF7S3oh_400x400.png",
+      "ubicacion": "Avenida 890",
+      "horario": "10am - 9pm",
+      "valoracion": "4.7",
+      "costo": "1",
+      "estrellas": 3,
+      "delivery": true,
+      "resenas": "120"
+    }
+  ]

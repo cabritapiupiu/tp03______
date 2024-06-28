@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Maria",
+      "plato": "Asado",
+      "calif": "4",
+      "comentario": "Me encanta el sabor de la carne asada en Argentina.",
+      "foto": "https://randomuser.me/api/portraits/women/41.jpg"
+    },
+    {
+      "name": "Juan",
+      "plato": "Empanadas",
+      "calif": "5",
+      "comentario": "Las empanadas argentinas son deliciosas, especialmente las de carne.",
+      "foto": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+      "name": "Luisa",
+      "plato": "Milanesa",
+      "calif": "3",
+      "comentario": "La milanesa argentina es muy sabrosa, aunque a veces puede ser un poco pesada.",
+      "foto": "https://randomuser.me/api/portraits/women/43.jpg"
+    },
+    {
+      "name": "Pedro",
+      "plato": "Matambre",
+      "calif": "4",
+      "comentario": "El matambre a la pizza es una delicia típica de Argentina.",
+      "foto": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+      "name": "Ana",
+      "plato": "Locro",
+      "calif": "5",
+      "comentario": "El locro argentino es un plato muy reconfortante, especialmente en invierno.",
+      "foto": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "name": "Carlos",
+      "plato": "Ñoquis",
+      "calif": "4",
+      "comentario": "Los ñoquis argentinos son una tradición en mi familia, siempre los comemos los 29 de cada mes.",
+      "foto": "https://randomuser.me/api/portraits/men/46.jpg"
+    },
+    {
+      "name": "Laura",
+      "plato": "Humita",
+      "calif": "3",
+      "comentario": "La humita argentina es una delicia hecha a base de choclo.",
+      "foto": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    {
+      "name": "Diego",
+      "plato": "Provoleta",
+      "calif": "5",
+      "comentario": "La provoleta argentina es una excelente opción como entrada en un asado.",
+      "foto": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "name": "Gabriela",
+      "plato": "Tarta",
+      "calif": "4",
+      "comentario": "Las tartas argentinas son muy versátiles y se pueden hacer con diferentes rellenos.",
+      "foto": "https://randomuser.me/api/portraits/women/49.jpg"
+    },
+    {
+      "name": "Fernando",
+      "plato": "Dulce de Leche",
+      "calif": "5",
+      "comentario": "El dulce de leche argentino es incomparable, lo uso para rellenar tortas y panqueques.",
+      "foto": "https://randomuser.me/api/portraits/men/50.jpg"
+    }
+  ]

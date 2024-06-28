@@ -1,0 +1,379 @@
+
+
+  [
+
+
+    {
+      "id": 2,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ]
+    },
+
+
+
+    {
+      "id": 3,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/3e80575d0b6f6a38/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "image": "https://img-global.cpcdn.com/recipes/90bf9cdc8937a8f4/640x640sq70/photo.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "image": "https://www.paulinacocina.net/wp-content/uploads/2023/06/lomo-en-salsa-receta-800x450.jpg",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "image": "https://www.comedera.com/wp-content/uploads/2013/10/aji-de-gallina.jpg",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "image": "https://www.comedera.com/wp-content/uploads/2022/03/Anticucho-shutterstock_185287433.jpg",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%22rocoto%22_relleno.jpg/1280px-%22rocoto%22_relleno.jpg",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "image": "https://img-global.cpcdn.com/recipes/75a85649423edd85/680x482cq70/arroz-con-mariscos-foto-principal.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://www.perudelights.com/wp-content/uploads/2013/02/P1013384.jpg.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ]
+    },
+
+    {
+      "nombre":"El Patito",
+      "id": 4,
+      "menu": [
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/bf9e935c233c9548/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Ceviche",
+          "description": "Fresh fish marinated in lime juice, mixed with onions, cilantro, and rocoto peppers.",
+          "price": "15.99",
+          "image": "https://img-global.cpcdn.com/recipes/62d5ffad6b48cd9d/680x482cq70/tapioca-relleno-de-choclo-salteados-comida-saludable-foto-principal.webp",
+          "rate": "4.5",
+          "time": "20",
+          "ingredients": "Fish, lime juice, onions, cilantro, rocoto peppers",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "250",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Lomo Saltado",
+          "description": "Stir-fried beef with onions, tomatoes, and french fries, served with rice.",
+          "price": "18.99",
+          "image": "https://img-global.cpcdn.com/recipes/c7b6a12aa7bfb986/640x640sq70/photo.webp",
+          "rate": "4.2",
+          "time": "25",
+          "ingredients": "Beef, onions, tomatoes, french fries, rice",
+          "take_away": "true",
+          "vegan": "true",
+          "kcal": "450",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Aji de Gallina",
+          "description": "Shredded chicken in a creamy yellow chili pepper sauce, served with boiled potatoes and rice.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/cfc8697cdccc3b9b/640x640sq70/photo.webp",
+          "rate": "4.7",
+          "time": "22",
+          "ingredients": "Chicken, yellow chili peppers, potatoes, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "380",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Anticuchos",
+          "description": "Grilled skewers of marinated beef heart, served with roasted potatoes and aji sauce.",
+          "price": "12.99",
+          "image": "https://img-global.cpcdn.com/recipes/94a5140f84a5763b/640x640sq70/photo.webp",
+          "rate": "4.3",
+          "time": "18",
+          "ingredients": "Beef heart, potatoes, aji sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "320",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Causa Rellena",
+          "description": "Layers of seasoned mashed potatoes filled with chicken or tuna salad.",
+          "price": "10.99",
+          "image": "https://www.comedera.com/wp-content/uploads/2015/09/causa-rellena-de-atun.jpg",
+          "rate": "4.6",
+          "time": "15",
+          "ingredients": "Potatoes, chicken or tuna salad",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "280",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Rocoto Relleno",
+          "description": "Spicy rocoto peppers stuffed with seasoned ground beef and cheese, served with a side of rice.",
+          "price": "13.99",
+          "image": "https://img-global.cpcdn.com/recipes/20b5d2662dadb681/640x640sq70/photo.webp",
+          "rate": "4.4",
+          "time": "20",
+          "ingredients": "Rocoto peppers, ground beef, cheese, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "350",
+          "glutenfree": "true"
+        },
+        {
+          "plato": "Arroz con Mariscos",
+          "description": "Peruvian-style seafood fried rice with a mix of shrimp, fish, calamari, and mussels.",
+          "price": "16.99",
+          "image": "https://img-global.cpcdn.com/recipes/ced4246778e1bb82/640x640sq70/photo.webp",
+          "rate": "4.8",
+          "time": "23",
+          "ingredients": "Shrimp, fish, calamari, mussels, rice",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "420",
+          "glutenfree": "false"
+        },
+        {
+          "plato": "Tallarin Saltado",
+          "description": "Stir-fried noodles with beef or chicken, onions, tomatoes, and soy sauce.",
+          "price": "14.99",
+          "image": "https://img-global.cpcdn.com/recipes/a6f995b563bb2d41/640x640sq70/photo.webp",
+          "rate": "4.1",
+          "time": "22",
+          "ingredients": "Noodles, beef or chicken, onions, tomatoes, soy sauce",
+          "take_away": "true",
+          "vegan": "false",
+          "kcal": "390",
+          "glutenfree": "false"
+        }
+      ]
+    }
+
+
+  ]

@@ -1,0 +1,38 @@
+body{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+
+h1{
+    padding:10px ;
+    background-color: wheat;
+    color:greenyellow;
+}
+
+h2{
+    padding:10px ;
+    background-color: wheat;
+    color:greenyellow;
+}
+
+ul{
+    min-height: 30px;
+    width: 60%;
+    background-color: aqua;
+
+    li{
+        padding: 20px;
+        background-color: gainsboro;
+    }
+}
+iconos{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    font-size: 18pt;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
